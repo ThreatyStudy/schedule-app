@@ -1,6 +1,7 @@
 import React, { useEffect, useMemo, useRef, useState } from "react";
 import "./App.css";
 import { supabase } from "./supabaseClient";
+console.log("DEPLOY CHECK: NEW UI ACTIVE");
 
 /**
  * Schedule Hub - Full Dashboard App.jsx
